@@ -5,7 +5,7 @@ body{
 }
 /* Main Header */
 .main-header{
-    background: rgb(255, 255, 255) url("images/image5.jpeg") no-repeat scroll center;
+    background: rgb(255, 255, 255) url("image5.jpeg") no-repeat scroll center;
     padding: 15px;
     color: rgb(207, 28, 28);
     text-shadow: 0 0 5px black;
@@ -177,7 +177,7 @@ body{
     margin: auto;
 }
 .about-article{
-    background: white url("images/gallery_mobile_3.jpg") no-repeat scroll center;
+    background: white url("gallery_mobile_3.jpg") no-repeat scroll center;
     background-size: cover;
     color: white;
     padding: 15px;
@@ -208,7 +208,7 @@ body{
 }
 /* Contact Section */
 .contact-section{
-    background: white url("images/image4.jpeg") no-repeat scroll bottom;
+    background: white url("image4.jpeg") no-repeat scroll bottom;
     background-size: cover;
     padding: 15px;
 }
